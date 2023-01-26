@@ -1,0 +1,1 @@
+The `compoundAssignment` package enables the user the opportunity to use compound assignments like `+=`
