@@ -4,7 +4,9 @@ Description: A package for enabling compound assignments like += to 'R'
 Authors@R: c(person(given = "John", family = "Doe", email = "johndoe@mail.com", role = c("aut", "cre")))
 URL: https://github.com/jakobCampus/compoundAssignment
 BugReports: https://github.com/jakobCampus/compoundAssignment/issues
-version: 0.0.1
+Version: 0.0.1
+Encoding: UTF-8
 License: MIT + file LICENSE
 Imports: checkmate
 Suggests: testthat
+RoxygenNote: 7.2.3
